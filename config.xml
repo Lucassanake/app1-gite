@@ -11,8 +11,8 @@
    Aplicación que muestra los datos del dispositivo
    </description>
    
-   <author href="https://build.phonegap.com" email="karensorianocbtis16@gmail.com">
-   Karen Krystell Soriano Dávila
+   <author href="https://build.phonegap.com" email="paul.1989prr@gmail.com">
+   Paul Romero Ramirez 
    </author>
    
    <!-- Personaliza la aplicación y plataforma -->
@@ -21,7 +21,7 @@
    <preference name="orientation"   value="landscape" /> -->
    <preference name="target-device"   value="universal" />
    <preference name="fullscreen"    value="true" />
-   <preference name="android-installLocation"  value"auto" />
+   <preference name="android-installLocation"  value="auto" />
    <preference name="permissions" value="INTERNET" />
    
    <!-- Plugins -->
